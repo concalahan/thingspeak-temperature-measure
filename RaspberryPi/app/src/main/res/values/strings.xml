@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LedBlinky</string>
+    <string name="rasp_pi_shared_pref_key">RaspPiSharedPrefKey</string>
+</resources>
